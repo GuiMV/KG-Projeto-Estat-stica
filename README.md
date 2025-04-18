@@ -20,7 +20,8 @@ Explique por que esse tema é relevante ou interessante do ponto de vista estat�
 - **Fonte: https://www.kaggle.com/datasets/jgassdfe/pokemon-dataset-of-gen-1-gen-9**  
   (Link ou citação da base de dados)
 
-- **Descrição breve:**  
+- **Descrição breve:**
+  Esse conjunto de dados nos traz informações, de mais de mil Pokémon de regiões e épocas diferentes, indispensaveis para a proposta do nosso tema, contendo os nomes dos Pokémon, pontos de vida, de ataque, de defesa, entre outras informações.
   Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
 
 - **Justificativa para a escolha:**  
