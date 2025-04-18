@@ -22,7 +22,8 @@ Explique por que esse tema é relevante ou interessante do ponto de vista estat�
 
 - **Descrição breve:**
   Esse conjunto de dados nos traz informações, de mais de mil Pokémon de regiões e épocas diferentes, indispensaveis para a proposta do nosso tema, contendo os nomes dos Pokémon, pontos de vida, de ataque, de defesa, entre outras informações.
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+  
+  (Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.)  
 
 - **Justificativa para a escolha:**  
   Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
