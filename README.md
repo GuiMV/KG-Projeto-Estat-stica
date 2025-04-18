@@ -30,7 +30,11 @@ Explique por que esse tema é relevante ou interessante do ponto de vista estat�
 
 ---
 
-## ❓ Perguntas ou Hipóteses  
+## ❓ Perguntas ou Hipóteses
+- Qual o tipo com mais e menos ataque?
+- Qual o tipo com mais e menos defesa?
+- Qual o tipo mais rápido e mais lento?
+- Fogo possui mais ataque que grama?
 *Começar a planejar com perguntas de Estatística Descritiva*  
 Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
 
