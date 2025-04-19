@@ -21,20 +21,31 @@ Explique por que esse tema é relevante ou interessante do ponto de vista estat�
   (Link ou citação da base de dados)
 
 - **Descrição breve:**
-  Esse conjunto de dados nos traz informações, de mais de mil Pokémon de regiões e épocas diferentes, indispensaveis para a proposta do nosso tema, contendo os nomes dos Pokémon, pontos de vida, de ataque, de defesa, entre outras informações.
   
+  Esse conjunto de dados reúne informações de mais de mil Pokémon ao longo de 9 gerações da franquia, abrangendo atributos de combate e classificações que caracterizam cada um deles.
+  Serão analisadas as nove primeiras gerações de iniciais, sendo um conjunto de dados atemporal no sentido de que só será alterado com a chegada de novas gerações ou mecânicas de jogo
+
   (Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.)  
 
-- **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
+- **Justificativa para a escolha:**
+  
+  Para responder às perguntas propostas, baseando-se no conjunto de dados, podemos aplicar certas análises estatísticas, como: média dos atributos, gráfico de barras para uma melhor visualização, desvio padrão (se necessário), possíveis correlações e certas conclusões. Assim sendo, nossa pesquisa torna-se relevante para os jogadores e fãs da franquia Pokémon, permitindo o desenvolvimento de estratégias de jogo e conhecimento cultural.
+
+  (Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.)
 
 ---
 
 ## ❓ Perguntas ou Hipóteses
-- Qual o tipo com mais e menos ataque?
-- Qual o tipo com mais e menos defesa?
+- Qual tipagem possui maior e menor ataque?
+- Qual tipagem possui maior e menor defesa?
 - Qual o tipo mais rápido e mais lento?
-- Fogo possui mais ataque que grama?
+- Qual tipagem possui mais vida?
+- Qual tipagem possui uma maior base de status(soma de todos os outros status)?
+- Qual tipagem possui mais fraquezas?
+-> Possivelmente os Pokémon de tipo Fogo se sobressaem no ataque, quanto aos tipos água e grama.
+-> Hipoteticamente o tipo água mostra-se superior na defesa quanto aos outros dois tipos.
+-> Provavelmente o tipo grama pode possuir uma base de status maior ao comparada com o tipo fogo ou água.
+
 *Começar a planejar com perguntas de Estatística Descritiva*  
 Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
 
