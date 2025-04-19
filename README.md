@@ -42,9 +42,9 @@ Explique por que esse tema é relevante ou interessante do ponto de vista estat�
 - Qual tipagem possui mais vida?
 - Qual tipagem possui uma maior base de status(soma de todos os outros status)?
 - Qual tipagem possui mais fraquezas?
--> Possivelmente os Pokémon de tipo Fogo se sobressaem no ataque, quanto aos tipos água e grama.
--> Hipoteticamente o tipo água mostra-se superior na defesa quanto aos outros dois tipos.
--> Provavelmente o tipo grama pode possuir uma base de status maior ao comparada com o tipo fogo ou água.
+- Possivelmente os Pokémon de tipo Fogo se sobressaem no ataque, quanto aos tipos água e grama.
+- Hipoteticamente o tipo água mostra-se superior na defesa quanto aos outros dois tipos.
+- Provavelmente o tipo grama pode possuir uma base de status maior ao comparada com o tipo fogo ou água.
 
 *Começar a planejar com perguntas de Estatística Descritiva*  
 Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
