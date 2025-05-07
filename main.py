@@ -13,7 +13,8 @@ def mostrar_dataset():
 
 def tamanho_dataset():
   # Mostra o tamanho do dataset (linhas e colunas)
-    print(f"O dataset possui {df.shape[0]} linhas e {df.shape[1]} colunas.\n")
+  print(f"O dataset possui {df.shape[0]} linhas e {df.shape[1]} colunas.\n")
+  print(f"A amostra possui {amostra.shape[0]} linhas e {amostra.shape[1]} colunas.\n")
 
 def mostrar_colunas():
   # Mostra as Variáveis do dataset
@@ -53,7 +54,8 @@ def sair():
     print("Saindo...")
     exit()
 
-df = pd.read_csv('pokemon_data.csv')  # Carrega o Dataset para um DataFrame (tabela)
+df = pd.read_csv('dataset/pokemon_data.csv')  # Carrega o Dataset para um DataFrame
+amostra = pd.read_csv('dataset/pokemon_amostra.csv')
 
 acoes = {
   1: sair,
@@ -65,7 +67,7 @@ acoes = {
 }
 
 while True:
-  print("| 1 - Sair |\t| 2 - Dataset |\t| 3 - Tamanho do Dataset |\t| 4 - Variáveis |\n| 5 - V_Qualitativas |\t| 6 - V_Quantitativas |\n")
+  print("| 1 - Sair |\t| 2 - Dataset (População) |\t| 3 - Tamanho do Dataset (População e Amostra) |\n| 4 - Variáveis (População) |\t| 5 - V_Qualitativas (Amostra) |\t| 6 - V_Quantitativas (Amostra) |\n")
   
   try:
     op = int(input("Digite a opção desejada: "))
