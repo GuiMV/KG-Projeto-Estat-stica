@@ -54,7 +54,10 @@ Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pret
 Indique quais técnicas estatísticas serão utilizadas (análise exploratória, testes, correlações, modelos, etc.).
 
 ## 🛠️ Ferramentas Utilizadas  
-*A preencher na próxima etapa.*  
+- Linguagem: Python
+- Bibliotecas: Pandas, Numpy, Matplotlib e Seaborn
+- Softwares: Replit
+  
 Quais linguagens, bibliotecas ou softwares serão utilizados no projeto.
 
 ## 📈 Resultados  
